@@ -1,3 +1,7 @@
+![swiggy1](https://github.com/jayanshchauhan/Swiggy/assets/54074798/84cd3127-7a17-4c85-96e6-562c432bf35b)
+![swiggy2](https://github.com/jayanshchauhan/Swiggy/assets/54074798/78e1fa83-f02f-4350-95fc-49022ae5e0c6)
+![swiggy3](https://github.com/jayanshchauhan/Swiggy/assets/54074798/3f482575-6107-46c0-8884-9baf8429eee0)
+
 # Namaste-React
 This repository contains all the learnings and notes I created while learning React JS from #Namaste-React Course, food studio is a project, built while learning the concepts.
 
